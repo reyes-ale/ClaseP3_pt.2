@@ -1,0 +1,15 @@
+﻿  Ejemplo.cpp
+  Rectangulo.cpp
+  Sem4P3.cpp
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Ejemplo.cpp(3,30): error C2572: "Ejemplo::Ejemplo": nueva definición de argumento predeterminado: parámetro 1
+  C:\Users\aleja\OneDrive\Documents\Sem4P3\Ejemplo.h(7,1):
+  vea la declaración de 'Ejemplo::Ejemplo'
+  
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Rectangulo.cpp(36,1): error C2653: 'Rectangulo': no es un nombre de clase o espacio de nombres
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Rectangulo.cpp(39,6): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Rectangulo.cpp(40,10): error C2065: 'm_ancho': identificador no declarado
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Rectangulo.cpp(41,10): error C2065: 'm_alto': identificador no declarado
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Rectangulo.cpp(42,6): warning C4508: 'Rectangulo': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Sem4P3.cpp(95,1): error C2059: error de sintaxis: '}'
+C:\Users\aleja\OneDrive\Documents\Sem4P3\Sem4P3.cpp(95,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  Generando código...
